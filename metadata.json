@@ -1,0 +1,6 @@
+{
+  "name": "Вербена — Бистро и доставка еды",
+  "description": "Современное бистро с авторским меню, удобным выбором блюд, корзиной и быстрым оформлением доставки или самовывоза.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
